@@ -1,0 +1,12 @@
+{
+    "routes": [
+        { "src": "/assets", "status": 403, "dest": "/assets/errors/403.html"},
+        { "src": "/assets/css", "status": 403, "dest": "/assets/errors/403.html"},
+        { "src": "/assets/errors", "status": 403, "dest": "/assets/errors/403.html"},
+        { "src": "/assets/img", "status": 403, "dest": "/assets/errors/403.html"},
+        { "src": "/assets/img/projects", "status": 403, "dest": "/assets/errors/403.html"},
+        { "src": "/assets/js", "status": 403, "dest": "/assets/errors/403.html"},
+        { "src": "/assets/webfonts", "status": 403, "dest": "/assets/errors/403.html"},
+        { "src": "/assets/legacy", "status": 403, "dest": "/assets/errors/403.html"}
+    ]
+}
