@@ -9,6 +9,6 @@
 - [ ] **Add CDN!**
 - [x] **Put this shit behind Cloudflare!**
 - [ ] **Push to Github!**
-- [ ] **Push new change to my Main Servers!**
+- [x] **Push new change to my Main Servers!**
 
 ### Coded With :heart: by Jae Jin!
